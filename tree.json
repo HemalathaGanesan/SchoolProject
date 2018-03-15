@@ -1,0 +1,253 @@
+{
+    "belgaum": {
+        "category": {
+            "Upper Primary": 1
+        },
+        "medium": {
+            "kannada": 1
+        }
+    },
+    "chitradurga": {
+        "category": {
+            "Upper Primary": 786,
+            "Lower Primary": 943,
+            "Model Primary": 1
+        },
+        "medium": {
+            "kannada": 1730
+        }
+    },
+    "koppal": {
+        "category": {
+            "Upper Primary": 548,
+            "Lower Primary": 434,
+            "Model Primary": 8
+        },
+        "medium": {
+            "kannada": 912,
+            "urdu": 47,
+            "tamil": 27,
+            "hindi": 1,
+            "telugu": 3
+        }
+    },
+    "bagalkot": {
+        "category": {
+            "Upper Primary": 654,
+            "Lower Primary": 630,
+            "Secondary": 2,
+            "Model Primary": 62
+        },
+        "medium": {
+            "kannada": 1347,
+            "urdu": 1
+        }
+    },
+    "yadgiri": {
+        "category": {
+            "Upper Primary": 444,
+            "Lower Primary": 547,
+            "Model Primary": 6
+        },
+        "medium": {
+            "kannada": 914,
+            "urdu": 83
+        }
+    },
+    "kolar": {
+        "category": {
+            "Upper Primary": 554,
+            "Lower Primary": 1340
+        },
+        "medium": {
+            "kannada": 1894
+        }
+    },
+    "raichur": {
+        "category": {
+            "Upper Primary": 716,
+            "Lower Primary": 740,
+            "Model Primary": 12
+        },
+        "medium": {
+            "kannada": 1366,
+            "urdu": 102
+        }
+    },
+    "bidar": {
+        "category": {
+            "Lower Primary": 504,
+            "Upper Primary": 755,
+            "Model Primary": 1
+        },
+        "medium": {
+            "kannada": 835,
+            "urdu": 270,
+            "marathi": 153,
+            "hindi": 2
+        }
+    },
+    "gulbarga": {
+        "category": {
+            "Upper Primary": 992,
+            "Lower Primary": 792,
+            "Model Primary": 1
+        },
+        "medium": {
+            "urdu": 264,
+            "kannada": 1503,
+            "telugu": 8,
+            "marathi": 10
+        }
+    },
+    "bellary": {
+        "category": {
+            "Lower Primary": 532,
+            "Upper Primary": 809,
+            "Model Primary": 4
+        },
+        "medium": {
+            "kannada": 1216,
+            "urdu": 118,
+            "telugu": 10,
+            "marathi": 1
+        }
+    },
+    "chamrajnagar": {
+        "category": {
+            "Upper Primary": 379,
+            "Lower Primary": 460,
+            "Secondary": 2
+        },
+        "medium": {
+            "kannada": 841
+        }
+    },
+    "chikballapur": {
+        "category": {
+            "Upper Primary": 421,
+            "Lower Primary": 1170,
+            "Model Primary": 26
+        },
+        "medium": {
+            "kannada": 1617
+        }
+    },
+    "bijapur": {
+        "category": {
+            "Lower Primary": 915,
+            "Upper Primary": 898,
+            "Model Primary": 73,
+            "Secondary": 1
+        },
+        "medium": {
+            "kannada": 1884,
+            "urdu": 3
+        }
+    },
+    "ramnagara": {
+        "category": {
+            "Model Primary": 16,
+            "Lower Primary": 965,
+            "Upper Primary": 405,
+            "Secondary": 1
+        },
+        "medium": {
+            "kannada": 1380,
+            "urdu": 7
+        }
+    },
+    "mysore": {
+        "category": {
+            "Upper Primary": 113,
+            "Lower Primary": 40,
+            "Model Primary": 2
+        },
+        "medium": {
+            "kannada": 136,
+            "urdu": 18,
+            "english": 1
+        }
+    },
+    "bangalore u south": {
+        "category": {
+            "Lower Primary": 488,
+            "Upper Primary": 414,
+            "Model Primary": 92
+        },
+        "medium": {
+            "kannada": 890,
+            "urdu": 76,
+            "tamil": 12,
+            "telugu": 2,
+            "hindi": 14
+        }
+    },
+    "bangalore u north": {
+        "category": {
+            "Lower Primary": 260,
+            "Upper Primary": 270,
+            "Model Primary": 59
+        },
+        "medium": {
+            "kannada": 495,
+            "urdu": 62,
+            "tamil": 11,
+            "telugu": 5,
+            "english": 1,
+            "hindi": 15
+        }
+    },
+    "bangalore": {
+        "category": {
+            "Lower Primary": 11
+        },
+        "medium": {
+            "kannada": 11
+        }
+    },
+    "dharwad": {
+        "category": {
+            "Upper Primary": 520,
+            "Lower Primary": 251,
+            "Model Primary": 34
+        },
+        "medium": {
+            "kannada": 695,
+            "urdu": 106,
+            "marathi": 3,
+            "english": 1
+        }
+    },
+    "bangalore rural": {
+        "category": {
+            "Model Primary": 27,
+            "Lower Primary": 175,
+            "Upper Primary": 121
+        },
+        "medium": {
+            "kannada": 293,
+            "urdu": 28,
+            "telugu": 2
+        }
+    },
+    "gadag": {
+        "category": {
+            "Upper Primary": 64,
+            "Lower Primary": 25,
+            "Model Primary": 9
+        },
+        "medium": {
+            "kannada": 95,
+            "tamil": 3
+        }
+    },
+    "shimoga": {
+        "category": {
+            "Upper Primary": 3
+        },
+        "medium": {
+            "kannada": 3
+        }
+    }
+}

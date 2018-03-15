@@ -1,0 +1,108 @@
+{
+    "belgaum": {
+        "Upper Primary": 1
+    },
+    "chitradurga": {
+        "Upper Primary": 786,
+        "Lower Primary": 943,
+        "Model Primary": 1
+    },
+    "koppal": {
+        "Upper Primary": 548,
+        "Lower Primary": 434,
+        "Model Primary": 8
+    },
+    "bagalkot": {
+        "Upper Primary": 654,
+        "Lower Primary": 630,
+        "Secondary": 2,
+        "Model Primary": 62
+    },
+    "yadgiri": {
+        "Upper Primary": 444,
+        "Lower Primary": 547,
+        "Model Primary": 6
+    },
+    "kolar": {
+        "Upper Primary": 554,
+        "Lower Primary": 1340
+    },
+    "raichur": {
+        "Upper Primary": 716,
+        "Lower Primary": 740,
+        "Model Primary": 12
+    },
+    "bidar": {
+        "Lower Primary": 504,
+        "Upper Primary": 755,
+        "Model Primary": 1
+    },
+    "gulbarga": {
+        "Upper Primary": 992,
+        "Lower Primary": 792,
+        "Model Primary": 1
+    },
+    "bellary": {
+        "Lower Primary": 532,
+        "Upper Primary": 809,
+        "Model Primary": 4
+    },
+    "chamrajnagar": {
+        "Upper Primary": 379,
+        "Lower Primary": 460,
+        "Secondary": 2
+    },
+    "chikballapur": {
+        "Upper Primary": 421,
+        "Lower Primary": 1170,
+        "Model Primary": 26
+    },
+    "bijapur": {
+        "Lower Primary": 915,
+        "Upper Primary": 898,
+        "Model Primary": 73,
+        "Secondary": 1
+    },
+    "ramnagara": {
+        "Model Primary": 16,
+        "Lower Primary": 965,
+        "Upper Primary": 405,
+        "Secondary": 1
+    },
+    "mysore": {
+        "Upper Primary": 113,
+        "Lower Primary": 40,
+        "Model Primary": 2
+    },
+    "bangalore u south": {
+        "Lower Primary": 488,
+        "Upper Primary": 414,
+        "Model Primary": 92
+    },
+    "bangalore u north": {
+        "Lower Primary": 260,
+        "Upper Primary": 270,
+        "Model Primary": 59
+    },
+    "bangalore": {
+        "Lower Primary": 11
+    },
+    "dharwad": {
+        "Upper Primary": 520,
+        "Lower Primary": 251,
+        "Model Primary": 34
+    },
+    "bangalore rural": {
+        "Model Primary": 27,
+        "Lower Primary": 175,
+        "Upper Primary": 121
+    },
+    "gadag": {
+        "Upper Primary": 64,
+        "Lower Primary": 25,
+        "Model Primary": 9
+    },
+    "shimoga": {
+        "Upper Primary": 3
+    }
+}

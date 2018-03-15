@@ -1,0 +1,103 @@
+{
+    "belgaum": {
+        "kannada": 1
+    },
+    "chitradurga": {
+        "kannada": 1730
+    },
+    "koppal": {
+        "kannada": 912,
+        "urdu": 47,
+        "tamil": 27,
+        "hindi": 1,
+        "telugu": 3
+    },
+    "bagalkot": {
+        "kannada": 1347,
+        "urdu": 1
+    },
+    "yadgiri": {
+        "kannada": 914,
+        "urdu": 83
+    },
+    "kolar": {
+        "kannada": 1894
+    },
+    "raichur": {
+        "kannada": 1366,
+        "urdu": 102
+    },
+    "bidar": {
+        "kannada": 835,
+        "urdu": 270,
+        "marathi": 153,
+        "hindi": 2
+    },
+    "gulbarga": {
+        "urdu": 264,
+        "kannada": 1503,
+        "telugu": 8,
+        "marathi": 10
+    },
+    "bellary": {
+        "kannada": 1216,
+        "urdu": 118,
+        "telugu": 10,
+        "marathi": 1
+    },
+    "chamrajnagar": {
+        "kannada": 841
+    },
+    "chikballapur": {
+        "kannada": 1617
+    },
+    "bijapur": {
+        "kannada": 1884,
+        "urdu": 3
+    },
+    "ramnagara": {
+        "kannada": 1380,
+        "urdu": 7
+    },
+    "mysore": {
+        "kannada": 136,
+        "urdu": 18,
+        "english": 1
+    },
+    "bangalore u south": {
+        "kannada": 890,
+        "urdu": 76,
+        "tamil": 12,
+        "telugu": 2,
+        "hindi": 14
+    },
+    "bangalore u north": {
+        "kannada": 495,
+        "urdu": 62,
+        "tamil": 11,
+        "telugu": 5,
+        "english": 1,
+        "hindi": 15
+    },
+    "bangalore": {
+        "kannada": 11
+    },
+    "dharwad": {
+        "kannada": 695,
+        "urdu": 106,
+        "marathi": 3,
+        "english": 1
+    },
+    "bangalore rural": {
+        "kannada": 293,
+        "urdu": 28,
+        "hindi": 2
+    },
+    "gadag": {
+        "kannada": 95,
+        "hindi": 3
+    },
+    "shimoga": {
+        "kannada": 3
+    }
+}
